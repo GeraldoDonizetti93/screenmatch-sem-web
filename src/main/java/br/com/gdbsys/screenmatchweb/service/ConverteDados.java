@@ -1,6 +1,5 @@
 package br.com.gdbsys.screenmatchweb.service;
 
-import br.com.gdbsys.screenmatchweb.model.DadosSerie;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
